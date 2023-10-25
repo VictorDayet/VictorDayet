@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VictorDayet
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unreal Engine 4
-- 💞️ I am looking for an internship
+- 👋 Hi, my name is @VictorDayet
+  🎮 I'm an indie game developer that uses Unreal Engine 4
+- 💞️ I am looking for an internship in Lyon, France
 - 📫 You can contact me by email at "victordayet@gmail.com"
 
 <!---
